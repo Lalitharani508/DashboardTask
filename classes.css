@@ -1,0 +1,53 @@
+.all{
+    display: flex;
+    font-weight: bold;
+    color: gray;
+}
+.date{
+    display: flex;
+}
+
+
+
+
+.div{
+    padding-bottom:20px;
+    border: 1px solid black;
+    width:auto;
+    height:auto;
+    padding-left: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+
+}
+.div1{
+    color: orange;
+    font-weight: bold;
+
+}
+button{
+    /* background-color:; */
+    color:lightgreen;
+
+}
+.div2{
+    /* text-align: center; */
+    /* display:flex;
+    flex-wrap: wrap; */
+    padding-top: 10px;
+
+}
+iframe{
+    width:200px;
+    height: 200px;
+    margin-top: 10px;
+}
+.topic{
+    border: 1px solid black;
+    width:270px;
+    height: 350px;
+    text-align: center;
+    font-weight: bold;
+
+
+}

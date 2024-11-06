@@ -1,0 +1,38 @@
+.a{
+    display: inline-block;
+    border:1px solid black;
+
+    border-radius: 20px;
+    background-color: white;
+    border-style:solid ;
+    margin:30px 20px;
+    padding:10px 20px;
+   
+}
+.css{
+    display:flex;
+    flex-wrap: wrap;
+    
+    
+    
+}
+.sub{
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+    width:90px;
+    height: 25px;
+    padding:3px;
+    margin:6px 20px;
+    text-align: center;
+}
+.sub1{
+    display: flex;
+}
+.tick{
+    padding-top:0px;
+}
+.ct{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,23 @@
+.a{
+    display: flex;
+}
+.b{
+    margin:0px 15px;
+    border-radius: 4px;
+    font-size: 30px;
+}
+thead{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+table{
+    width: 100%;
+    border-collapse:collapse ;
+    margin-top:20px;
+
+}
+td{
+    padding:15px 0px;
+    text-align: center;
+}

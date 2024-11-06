@@ -1,0 +1,58 @@
+.a{
+    border-radius: 20px;
+    border:1px solid #EEEEEE;
+    background-color: white;
+    width:400px;
+    text-align: center;
+    margin:10px;
+    height: 200px;
+    /* margin-bottom:10px; */
+    
+    
+
+}
+.h1{
+    background-color:lightblue;
+}
+
+
+
+table{
+    width: 100%;
+    border:px;
+    text-align: center;
+    /* margin:10px 0px; */
+    border-collapse: collapse;
+
+}
+thead{
+
+}
+th{
+    padding: 10px;
+    background-color: lightblue;
+}
+td{
+    text-align: center;
+    padding:20px 0px;
+    padding-left: 5px;
+    background-color: white;
+}
+button{
+    background-color: lightblue;
+    padding:8px;
+    border-radius: 10px;
+
+}
+.off{
+    background-color: orange;
+}
+.status{
+    display: flex;
+   
+}
+.b{
+    border-radius: 50px;
+    border:1px solid #EEEEEE;
+
+}

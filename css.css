@@ -1,0 +1,64 @@
+.left{
+    display: flex;
+    padding-left: 5px;
+    background-color:pink;
+    height: 100%;
+    width:100%;
+}
+.right{
+    display: flex;
+    background-color: #C6E7FF;
+    width:50%;
+}
+
+body{
+    display: flex;
+    width:100%;
+    border: 1px solid black;
+    height: 710px;
+}
+
+.form{
+    border-radius: 20px;
+    background-color: white;
+    border: 1px solid gray;
+    margin:50px 200px;
+    width:300px;
+    height: 500px;
+    padding:40px 50px;
+    
+}
+.login{
+    background-color: orange;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin:30px ;
+    color: black;
+    width:250px;
+}
+.id{
+    width:300px;
+}
+.for{
+    text-align: right;
+    margin-right: -40px;
+}
+.me{
+    margin-top: 30px;
+}
+.call{
+    display: flex;
+    text-align: center;
+
+}
+.c1{
+    display: flex;
+}
+button{
+    background-color: orange;
+    font-weight: bold;
+    padding:10px;
+   align-items: center;
+   margin-left:110px;
+}
